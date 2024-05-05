@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadabMir
-- 👀 I’m interested in ... Deep learning models
-- 🌱 I’m currently learning ... Convolutional Neural Networks
+- 👀 I’m interested in ... Computer vision and Robot navigation (SLAM)
+- 🌱 I’m currently learning ... ROS (Robot Operating System),ArduPilot and TensorFlow
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
